@@ -1,0 +1,266 @@
+# Nolan's PS2 Collection
+
+This is a list of all the game backups I have in my collection. This list also doubles as all the game art inside the `ART/` directory. So any games listed below should not need the box art manually collected. This process is a pain but if you want to
+add a game to this microSD card and it's not listed below, then use [https://oplmanager.com/site/](https://oplmanager.com/site/)
+
+The file names should not matter for detecting game art.
+
+## DVD Game Art
+
+- Beyond Good & Evil (USA) (En,Fr,Es).iso
+- Burnout (USA).iso
+- Bloody Roar 4 (USA).iso
+- Burnout 2 - Point of Impact (USA).iso
+- Darkwatch (USA).iso
+- Devil May Cry 3 - Dante's Awakening (USA) (En,Ja) (Special Edition).iso
+- Burnout 3 - Takedown (USA).iso
+- Dragon Ball Z - Budokai (USA).iso
+- Dragon Ball Z - Budokai 2 (USA).iso
+- Dragon Quest VIII - Journey of the Cursed King (USA).iso
+- God Hand (USA).iso
+- God of War (USA).iso
+- God of War II (USA).iso
+- Gran Turismo 3 - A-Spec (USA) (v1.10).iso
+- Gran Turismo 4 (USA) (v1.01).iso
+- Grand Theft Auto - Liberty City Stories (USA).iso
+- Grand Theft Auto - San Andreas (USA) (v3.00).iso
+- Grand Theft Auto - Vice City (USA) (v3.00).iso
+- Grand Theft Auto III (USA).iso
+- Gungrave - Overdose (USA).iso
+- Gungrave (USA).iso
+- Hokuto no Ken - Shinpan no Sousousei Kengo Retsuden NTSC-J.iso
+- Hulk (USA).iso
+- Burnout Dominator (USA).iso
+- The Incredible Hulk - Ultimate Destruction (USA).iso
+- The Incredible Hulk (USA).iso
+- Jak 3 (USA) (En,Fr,De,Es,It,Pt,Ru).iso
+- Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).iso
+- Jak and Daxter - The Precursor Legacy (USA) (En,Fr,De,Es,It) (Alt).iso
+- Jak II (USA) (En,Ja,Fr,De,Es,It,Ko) (v1.00).iso
+- Initial D - Special Stage (Japan) (v1.01).iso
+- Jak X - Combat Racing (USA).iso
+- Kingdom Hearts (USA).iso
+- Kingdom Hearts II (USA).iso
+- Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl).iso
+- LEGO Star Wars - The Video Game (USA) (v2.00).iso
+- Lord of the Rings, The - The Fellowship of the Ring (USA).iso
+- Lord of the Rings, The - The Two Towers (USA).iso
+- Burnout Revenge (USA).iso
+- Guilty Gear Isuka (USA).iso
+- Devil May Cry (USA).iso
+- Metal Gear Solid 2 - Sons of Liberty (USA).iso
+- Mortal Kombat - Armageddon (USA) (Premium Edition).iso
+- Naruto - Uzumaki Chronicles 2 (USA).iso
+- Naruto Shippuden - Ultimate Ninja 4 (USA) (En,Fr).iso
+- Auto Modellista (USA).iso
+- Guilty Gear X2 (USA).iso
+- NBA Street V3 (USA).iso
+- NBA Street Vol. 2 (USA).iso
+- Need for Speed - Most Wanted - Black Edition (USA).iso
+- Need for Speed - Underground (USA).iso
+- OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es).iso
+- Prince of Persia - The Sands of Time (USA) (En,Fr,Es).iso
+- Prince of Persia - The Two Thrones (USA) (En,Fr,Es).iso
+- Prince of Persia - Warrior Within (USA) (En,Fr,Es).iso
+- The Punisher (USA).iso
+- Red Dead Revolver (USA).iso
+- Resident Evil 4 (USA).iso
+- Shadow of the Colossus (USA).iso
+- Shadow the Hedgehog (USA) (En,Ja,Fr,De,Es,It).iso
+- Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. the Soulless Army (USA).iso
+- Shin Megami Tensei - Nocturne (USA).iso
+- Shin Megami Tensei - Persona 3 FES (USA).iso
+- Shin Megami Tensei - Persona 4 (USA).iso
+- Shonen Jump's One Piece - Grand Adventure (USA).iso
+- Shonen Jump's One Piece - Grand Battle (USA).iso
+- Shonen Jump's One Piece - Pirates' Carnival (USA).iso
+- Silent Hill - Shattered Memories (USA) (En,Fr,Es).iso
+- Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).iso
+- Guilty Gear XX Accent Core (USA).iso
+- Silent Hill 4 - The Room (USA) (En,Ja).iso
+- Silent Hill Origins (USA) (En,Fr,De,Es,It).iso
+- Simpsons, The - Hit & Run (USA).iso
+- Simpsons, The - Road Rage (USA).iso
+- Soulcalibur II (USA).iso
+- Spider-Man 2 (USA).iso
+- SSX Tricky (USA).iso
+- Star Wars - Battlefront II (USA) (v2.01).iso
+- Street Fighter Alpha Anthology (USA).iso
+- Street Fighter Anniversary Collection (USA).iso
+- Tekken 4 (USA).iso
+- Tekken 5 (USA).iso
+- Guilty Gear XX Accent Core Plus (USA).iso
+- Bully (USA).iso
+- TimeSplitters - Future Perfect (USA).iso
+- Need for Speed - Carbon (USA).iso
+- Need for Speed - Hot Pursuit 2 (USA).iso
+- TimeSplitters 2 (USA).iso
+- Tony Hawk's American Wasteland (USA) (Collector's Edition).iso
+- Tony Hawk's Downhill Jam (USA).iso
+- Tony Hawk's Pro Skater 3 (USA).iso
+- Tony Hawk's Pro Skater 4 (USA) (v2.01).iso
+- Tony Hawk's Project 8 (USA).iso
+- Tony Hawk's Proving Ground (USA).iso
+- Tony Hawk's Underground (USA).iso
+- Tony Hawk's Underground 2 (USA).iso
+- Twisted Metal - Black (USA).iso
+- Ultimate Spider-Man (USA).iso
+- The Warriors (USA) (En,Fr,De,Es,It).iso
+- X-Men Legends (USA).iso
+- Yu Yu Hakusho - Dark Tournament (USA).iso
+- Amplitude (USA).iso
+- Batman Begins (USA).iso
+- Need for Speed - ProStreet (USA).iso
+- Need for Speed - Undercover (USA) (En,Fr,Es).iso
+- Need for Speed - Underground 2 (USA).iso
+- Godzilla - Save the Earth (USA).iso
+- Godzilla - Unleashed (USA).iso
+- LEGO Star Wars II - The Original Trilogy (USA).iso
+- Star Wars - Battlefront (USA).iso
+- Star Wars - Bounty Hunter (USA).iso
+- Star Wars - Episode III - Revenge of the Sith (USA).iso
+- Black (USA).iso
+- Silent Hill 3 (USA).iso
+- Star Wars - Jedi Starfighter (USA).iso
+- King of Fighters 2003, The (USA).iso
+- King of Fighters Collection, The - The Orochi Saga (USA).iso
+- King of Fighters XI, The (USA, Canada).iso
+- Samurai Shodown Anthology (USA).iso
+- 007 - Agent Under Fire (USA).iso
+- 007 - Everything or Nothing (USA).iso
+- Star Wars - The Clone Wars - Republic Heroes (USA).iso
+- Star Wars - The Clone Wars (USA).iso
+- Star Wars - The Force Unleashed (USA) (En,Fr).iso
+- Castlevania - Curse of Darkness (USA).iso
+- Castlevania - Lament of Innocence (USA).iso
+- X-Men Legends II - Rise of Apocalypse (USA).iso
+- Capcom Fighting Evolution (USA).iso
+- DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).iso
+- King of Fighters '98, The - Ultimate Match (USA).iso
+- King of Fighters 2002, The - Challenge to Ultimate Battle (USA).iso
+- King of Fighters 2006, The (USA).iso
+- Mortal Kombat - Deadly Alliance (USA).iso
+- Mortal Kombat - Shaolin Monks (USA).iso
+- Soulcalibur III (USA).iso
+- Virtua Fighter 4 - Evolution (USA).iso
+- Crash of the Titans (USA).iso
+- Devil May Cry 2 (USA) (Disc 1).iso
+- Devil May Cry 2 (USA) (Disc 2).iso
+- Dragon Ball Z - Budokai 3 (USA).iso
+- Dragon Ball Z - Budokai Tenkaichi (USA).iso
+- Dragon Ball Z - Budokai Tenkaichi 2 (USA) (En,Ja).iso
+- Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).iso
+- Dragon Ball Z - Infinite World (USA).iso
+- Dragon Ball Z - Sagas (USA).iso
+- Naruto - Ultimate Ninja (USA).iso
+- Naruto - Ultimate Ninja 2 (USA).iso
+- Naruto - Ultimate Ninja 3 (USA).iso
+- Naruto - Uzumaki Chronicles (USA).iso
+- Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA).iso
+- Shin Megami Tensei - Digital Devil Saga (USA).iso
+- Shin Megami Tensei - Digital Devil Saga 2 (USA).iso
+- Super Dragon Ball Z (USA).iso
+- 007 - From Russia with Love (USA).iso
+- 007 - Nightfire (USA).iso
+- 007 - Quantum of Solace (USA).iso
+- Destroy All Humans! (USA).iso
+- Destroy All Humans! 2 (USA).iso
+- Fatal Fury - Battle Archives Volume 1 (USA).iso
+- Fatal Fury - Battle Archives Volume 2 (USA).iso
+- Metal Gear Solid 2 - Substance (USA).iso
+- Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence).iso
+- Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence).iso
+- Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition).iso
+- NeoGeo Online Collection Vol. 2 - Bakumatsu Roman - Gekka no Kenshi 1, 2 (Japan) (En,Ja,Es,Pt).iso
+- Ratchet & Clank - Going Commando (USA) (v2.00).iso
+- Ratchet & Clank - Size Matters (USA).iso
+- Ratchet & Clank - Up Your Arsenal (USA) (En,Fr,Es).iso
+- Ratchet & Clank (USA) (En,Fr,De,Es,It).iso
+- Secret Agent Clank (USA) (En,Fr,De,Es,It).iso
+- Sly 2 - Band of Thieves (USA).iso
+- Sly 3 - Honor Among Thieves (USA).iso
+- Sly Cooper and the Thievius Raccoonus (USA).iso
+- Wild Arms - Alter Code - F (USA).iso
+- Wild Arms 3 (USA).iso
+- Wild Arms 4 (USA).iso
+- Wild Arms 5 (USA).iso
+- Berserk - Millennium Falcon (English v1.1).iso
+- Family Guy - Video Game! (USA).iso
+- Final Fantasy X-2 (USA, Canada).iso
+- Final Fantasy XII (USA).iso
+- Inuyasha - Feudal Combat (USA).iso
+- Inuyasha - The Secret of the Cursed Mask (USA).iso
+- Jaws Unleashed (USA).iso
+- Kingdom Hearts - Re-Chain of Memories (USA).iso
+- Lara Croft Tomb Raider - Anniversary (USA).iso
+- Lara Croft Tomb Raider - Legend (USA) (En,Fr,Es).iso
+- Lara Croft Tomb Raider - The Angel of Darkness (USA).iso
+- LEGO Batman - The Videogame (USA).iso
+- LEGO Indiana Jones - The Original Adventures (USA).iso
+- Marvel Nemesis - Rise of the Imperfects (USA).iso
+- Crash - Mind over Mutant (USA).iso
+- Crash Tag Team Racing (USA).iso
+- Midnight Club 3 - DUB Edition (USA) (v2.00).iso
+- Midnight Club II (USA).iso
+- Nickelodeon SpongeBob SquarePants - Battle for Bikini Bottom (USA).iso
+- Nickelodeon SpongeBob SquarePants - Creature from the Krusty Krab (USA).iso
+- Nickelodeon SpongeBob SquarePants - Lights, Camera, Pants! (USA).iso
+- Crash Twinsanity (USA) (v2.00).iso
+- Def Jam - Fight for NY (USA).iso
+- Disgaea - Hour of Darkness (USA).iso
+- Nickelodeon SpongeBob SquarePants - The Movie (USA).iso
+- Nickelodeon SpongeBob SquarePants featuring Nicktoons - Globs of Doom (USA).iso
+- Nickelodeon SpongeBob's Atlantis SquarePantis (USA).iso
+- Peter Jackson's King Kong - The Official Game of the Movie (USA) (En,Fr,Es).iso
+- Samurai Jack - The Shadow of Aku (USA).iso
+- Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).iso
+- Sonic Riders - Zero Gravity (USA) (En,Ja,Fr,De,Es,It).iso
+- Sonic Riders (USA) (En,Ja,Fr,De,Es,It).iso
+- Sonic Unleashed (USA) (En,Ja,Fr,De,Es,It).iso
+- Thrillville - Off the Rails (USA).iso
+- Time Crisis - Crisis Zone (USA).iso
+- Time Crisis 3 (USA).iso
+- Disgaea 2 - Cursed Memories (USA).iso
+- TMNT (USA) (En,Fr,Es).iso
+- Midnight Club 3 - DUB Edition Remix (USA).iso
+- Legend of Spyro, The - A New Beginning (USA).iso
+- Alien Hominid (USA).iso
+- Culdcept (USA).iso
+- Legend of Spyro, The - The Eternal Night (USA).iso
+- Ratchet - Deadlocked (USA) (En,Fr,Es).iso
+- Spider-Man - Friend or Foe (USA).iso
+- Spider-Man - Web of Shadows - Amazing Allies Edition (USA).iso
+- Spyro - A Hero's Tail (USA).iso
+- Spyro - Enter the Dragonfly (USA).iso
+- Baldur's Gate - Dark Alliance (USA).iso
+- Dog's Life (USA).iso
+- Judge Dredd - Dredd vs. Death (USA).iso
+- Psychonauts (USA).iso
+- Shadow of Rome (USA).iso
+- SSX 3 (USA).iso
+- SSX On Tour (USA).iso
+- Call of Duty 2 - Big Red One (USA) (Collector's Edition).iso
+
+## CD Game Art
+
+- Bloody Roar 3 (USA).iso
+- Street Fighter EX3.iso
+- Spongebob Squarepants - Revenge of the Flying Dutchman.iso
+- Gauntlet - Dark Legacy (USA).iso
+- TimeSplitters.iso
+- Tekken Tag Tournament (USA).iso
+- Time Crisis II.iso
+- Guilty Gear X (USA).iso
+- Star Wars - Starfighter (USA).iso
+- Rez (USA).iso
+- Marvel vs Capcom 2 New Age of Heroes.iso
+- Star Wars - Super Bombad Racing (USA).iso
+- Capcom vs. SNK 2 - Mark of the Millennium 2001 (USA).iso
+- NBA Street (USA).iso
+- Midnight Club - Street Racing.iso
+- The Thing.iso
+- Star Wars - Racer Revenge (USA).iso
+- ICO.iso
+- Micro Machines V4 (USA).iso
+- SSX (USA).iso
+- Batman - Vengeance (USA) (En,Fr).iso
